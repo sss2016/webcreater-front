@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(45deg,rgba(254,172,94,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5));
+}
+.login{
+    display: flex;
+    justify-content:flex-end;
+}
+.login-form{
+    width: 30%;
+    height: 350px;
+    margin-top: 150px;
+    margin-right: 20%;
+    background-color: white;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    box-shadow: 5px 0px 11px ;
+    border-radius: 5%;
+}
+.login-logo{
+
+    margin: 20px;
+}
+.ant-tabs-tabpane{
+    display: flex;
+    justify-content: center;
+}
+.ant-form{
+    width: 80%;
+
+}

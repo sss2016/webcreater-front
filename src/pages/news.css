@@ -1,0 +1,16 @@
+.list-news .ant-list-item {
+	display: flex;
+	justify-content: space-between;
+}
+.list-news .list-title {
+		flex: 1;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+.list-news .list-time {
+		text-align: center;
+}
+.shadow-radius .ant-tabs-tabpane {
+	justify-content: left;
+}
